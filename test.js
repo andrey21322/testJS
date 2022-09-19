@@ -26,7 +26,6 @@ function loadGrain(levels) {
                             return 0
                         }
                     }
-                    
               }
         }
     }
